@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "66cebfb6fa78cd2f542710cc"
+  },
+  "name": "Hindveer",
+  "age": 22,
+  "marks": 85
+},
+{
+  "_id": {
+    "$oid": "66cebfb6fa78cd2f542710cd"
+  },
+  "name": "Harmeet",
+  "age": 24,
+  "marks": 92
+},
+{
+  "_id": {
+    "$oid": "66cebfb6fa78cd2f542710ce"
+  },
+  "name": "Honey",
+  "age": 20,
+  "marks": 78
+},
+{
+  "_id": {
+    "$oid": "66cebfb6fa78cd2f542710cf"
+  },
+  "name": "Harman",
+  "age": 23,
+  "marks": 64
+},
+{
+  "_id": {
+    "$oid": "66cebfb6fa78cd2f542710d0"
+  },
+  "name": "spiddy",
+  "age": 21,
+  "marks": 88
+},
+{
+  "_id": {
+    "$oid": "66cff87c8de7fe7b2c2710bc"
+  },
+  "date": {
+    "$date": "2024-08-29T04:26:36.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cffefe8de7fe7b2c2710bd"
+  },
+  "name": "Hindveer",
+  "age": 20
+}]
